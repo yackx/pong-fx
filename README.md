@@ -1,17 +1,17 @@
 # Pong FX
 
-**Classical Pong game implemented with JavaFX.**
+**Classical Pong game implemented in JavaFX.**
 
 ![PongFX](pong-fx.png)
 
 ## Requirements
 
-* Java 9 JRE or above with JavaFX lib.
-* Gradle 4.
+* Java 9 JRE or above with JavaFX lib
+* Gradle 4
 
 Remarks:
 
-* With sdkman, some JDK do not contain the JavaFX libs (openjdk and zulu). Use Oracle instead.
+* Some JDK's provided by sdkman do not contain the JavaFX libs (openjdk and zulu). Use Oracle instead.
 * This application might also run with Java 8 (untested)
 
 ## Run
