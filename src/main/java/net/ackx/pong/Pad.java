@@ -32,7 +32,7 @@ public class Pad extends GameObject {
 
     private void moveDown() {
         double y = node.getTranslateY();
-        if (y < 1_200 - node.getLayoutY()) {
+        if (y < getPanelHeight() - 100.0) {
             node.setTranslateY(y + MOVEMENT_INCREMENT);
         }
     }
