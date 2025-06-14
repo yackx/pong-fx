@@ -1,6 +1,6 @@
 # Pong FX
 
-**Classical Pong game implemented in JavaFX.**
+**Classic Pong game implemented in JavaFX**
 
 ![PongFX](pong-fx.png)
 
